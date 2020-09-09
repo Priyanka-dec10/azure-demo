@@ -1,4 +1,4 @@
-{ 
+{
   "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
@@ -19,6 +19,12 @@
       "type": "string",
       "metadata": {
         "description": "Specifies a username for the Virtual Machine."
+      }
+    },
+    "adminPassword": {
+      "type": "string",
+      "metadata": {
+        "description": "Specifies a password for the Virtual Machine."
       }
     },
     "adminPublicKey": {
@@ -206,6 +212,10 @@
     "adminUsername": {
       "type": "string",
       "value": "[parameters('adminUsername')]"
+    },
+    "adminPassword": {
+      "type": "string",
+      "value": "[parameters('adminPassword')]"
     }
   }
 }
