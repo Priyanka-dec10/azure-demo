@@ -30,7 +30,7 @@
     },
     "adminPublicKey": {
       "type": "string",
-       "defaultValue": "c18B8vrJS/+jRWuG2UGLxXupH7skpxNsDBcnSgWr09w priyanka@cc-89109b8c-55bb6676d4-s7k67"
+       "defaultValue": "SHA256:wqAZrkjR4DhYOcN8VK1QRdPqqY5iNbZFm20p6HN/UQw priyanka@cc-89109b8c-55bb6676d4-s7k67"
       "metadata": {
         "description": "Specifies the SSH rsa public key file as a string. Use \"ssh-keygen -t rsa -b 2048\" to generate your SSH key pairs."
       }
