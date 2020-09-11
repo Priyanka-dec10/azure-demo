@@ -30,7 +30,31 @@
     },
     "adminPublicKey": {
       "type": "string",
-       "defaultValue": "qsMBkSvvj+T62F7ygl+z701TbrkKRVUY0t+/wr7rYpE priyanka@cc-89109b8c-55bb6676d4-s7k67",
+       "defaultValue": "MIIEpQIBAAKCAQEAxvs5ZPiK3aAaaXykXNLTsy2h7QRIxVBuOW12XZ4fUgf6VuLi
+Aikkw2kL15YbPcLHLPX74CVjVNCxozKJjxKLPE9sn2++YaaWuGgVOH4MW5FFc0gH
+ULzP8Hc2Li1KHwqNM4ZO3Z9NucGefgp30IVXdllPaVdaPxlJka5z08nkrHLdvE9g
+Laen0CvykJf6Xytd/FZGlWCO48JIId/pw1f/m1J7wepy+nmPiftFm4Is1nzhfznK
+OjXVS1UpOnzVDlJBGbjDo4pc7R1Mx80T96T7g8Zat7UIJtkXUcaOwWiYp83u87+b
+GECTosrdw++luZBqSIhSA6EfPBShTi8zs8XZfwIDAQABAoIBAQDBqXdl74TwSUgL
+jRVHhqYmiO5Fidrtt+dfm0sNuL0RENS0xeNkaPjv+4hcDit7Q9yoxMydjqYLwYZy
+qNg7WLgNPdwhnRd1YTbmSd8FeaC7ajtnBR6hlPLpPo2MCeZPKezdzgVqLAbxGSIR
+2Exetbi3ZhslErCyIwF4eYsgASrALt1j0X9k/ymUblX0Todk7p1cqssn9OR+YmU0
+fR0R8pJWS5q7UMJZxdFiHBg1d7i7VXttFuLBU1bELhi39NGvIYWUFRRKFU9JHZEL
+sqb9bUYBFxjrjMlgM1ynQ7C/lP7aDA4PjQvTqEUi+J8oQJyMYCAA1+3KKgDQ9Hxk
+ryyNj8TZAoGBAP5y/UPY3T7qXj/6oxbWNVfLOwg0oyP8JuvnuCVpeA2O7r8nzJqy
+6KmxbNHUQ38ieLWLK9yZV44R+Te1kfWaU9ywSZM7VfuBE8tIPsgipzrMaymHCikE
+iUmWnpJutATWxq+3IfM1EWNXnx1M50l8GNyuAFMND3u0xqnyGufp09DLAoGBAMgx
+sJdZuqFkoUE35hBvnah854jfhpBC14EC3ks/fNHBppfc6DCfSLTp8OGzifZvb+Ly
+H2dP9MHi1DpY//Hxg7q1E+vGnYlNYwKH2llVQc7FHjgihWfzH0wZ4YuByeAOdH1U
+uXKaA559qVdZLWKvkU9mF2ITY/tCaXL9hfsjk8edAoGBAMeA73UX/3kKF/YAFYmd
+UNvSXCm148geN4I2ABtNU7UFwcodcX5GEsiidZkb3gQ7yftF8JEZph2dmBMHCTdR
+1rkte7K2DleRQCzeK2OOUCJ5DvjTibLZfK83KoPTytAUelphs3vWuxhyJi66Eop6
+g5/byiNUFTTAbBfp3RDDNLH7AoGBAIgkAotqodiPrnnDodkbjoO+LVaPa9s/GX7K
+jJFvo1qh7sDnoZ8vMyqUzRMwHWpRbi1Pqrt/TFtt/hWP4L6QF50o91snvopY7jQS
+XxLRP+d1dY+HKmH+nBIMp61PnhGYwu9YZqTgyAVIP5j/NDYgXxk3vD8eIKgGCeAB
+ONQI5b6hAoGABPRW1aYRVwX9SprvVmTKCFA1XCnOGOcV4uCBy0Jp8Ena6FqX3Y9e
+qB0oqUdHXGWTShbFXXM5vwzE/QiR0J3x2DOHQTxZECqX/rDYtEbnj4xhxbsYGGIh
+Q3tVVCRKKwH2yRh7jmfVQ1JdsNGNwoFLY1TcjDEPa2ycJ1rDnEegR2c=",
       "metadata": {
         "description": "Specifies the SSH rsa public key file as a string. Use \"ssh-keygen -t rsa -b 2048\" to generate your SSH key pairs."
       }
